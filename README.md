@@ -1,7 +1,7 @@
 # 🎵 TTDL5 — TikTok Downloader v5  
 **Asikin aja 🗿**
 
-TTDL5 adalah TikTok Downloader simple + cepat + Gen-Z–friendly yang bisa download video TikTok (tanpa watermark) langsung dari browser.  
+TTDL5 adalah TikTok Downloader simple + cepat yang bisa download video TikTok (tanpa watermark) langsung dari browser.  
 Backend pakai Node.js + Express, frontend pakai TailwindCSS only.
 
 Live demo: **https://www.nuevextdl.my.id**  
