@@ -22,16 +22,16 @@ Repo: **https://github.com/ShinWolf-Subject/ttdl5**
 ## 📁 Struktur Proyek
 ```
 ttdl5/
+├─ downloads/
+│   └─ (hasil download .mp4)
 ├─ public/
 │   ├─ index.html
 │   └─ script.js
-├─ downloads/
-│   └─ (hasil download .mp4)
 ├─ .gitignore
-├─ server-two.js
-├─ vercel.json
 ├─ package.json
-└─ README.md
+├─ README.md
+├─ server-two.js
+└─ vercel.json
 ```
 
 ---
