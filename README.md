@@ -21,7 +21,7 @@ Repo: **https://github.com/ShinWolf-Subject/ttdl5**
 
 ## 📁 Struktur Proyek
 ```
-ttdl5/              # Root
+ttdl5/               # Root
 ├─ downloads/        # Untuk menyimpan dan download video
 │   └─ (Video)      # Hasil download/Download function
 ├─ public/           # Folder interface
