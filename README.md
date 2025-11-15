@@ -51,11 +51,11 @@ git clone https://github.com/ShinWolf-Subject/ttdl5.git
 cd ttdl5
 npm install
 
-# Produksi
+# Production
 npm start
 
 # Development
-npm run Dev
+npm run dev
 ```
 
 Server default jalan di:
